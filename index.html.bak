@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title></title>
+  </head>
+  <body>
+    <p>PÁGINA WEB DE KEPA AZKONA FUENTE</p>
+    <p>En esta pagina web tendremos la oportunidad de visitar a traves de un
+      visor web el resultado obtenido del Trabajo Fin de Master de Kepa Azkona.
+    </p>
+    <p>Este alumno del Máster de Tecnologías de la Información Geográfica para
+      la Ordenación del Territorio: SIG y Teledetección; ha trabajado en la
+      aplicación de los SIG en el ambito del Planeamiento Urbano, y como
+      sistesis de todo su trabajo ha sido desarrollado un visor web a traves de
+      la API Sitna del Gobierno de Navarra.</p>
+    <p>Pueden verel visor weben este <a href="%3C%21DOCTYPE%20html%3E%3Chtml%20xmlns=%22http://www.w3.org/1999/xhtml%22%3E%3Chead%3E%20%3Cmeta%20http-equiv=%22X-UA-Compatible%22%20content=%22IE=edge%22%3E%20%3Clink%20rel=%22stylesheet%22%20href=%22examples.css%22%20/%3E%3C/head%3E%3Cbody%3E%20%3Cscript%20src=%22//sitna.tracasa.es/api/%22%20type=%22text/javascript%22%3E%3C/script%3E%20%3Cdiv%20id=%22mapa%22%3E%3C/div%3E%3Cscript%3E%20var%20map%20=%20new%20SITNA.Map%28%22mapa%22%29;%3C/script%3E%3C/body%3E%3C/html%3E">enlace</a></p>
+  </body>
+</html>
